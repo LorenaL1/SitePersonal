@@ -1,0 +1,73 @@
+body{
+    background-color:azure;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.head{
+    position: relative;
+    display: inline-block;
+    align-content: center;
+}
+
+#linea{
+    
+    width: 10%;
+    border-style: none  ;
+    border-width: 8px;
+    border-top-style: dotted;
+    border-color:grey 
+}
+
+#perline{
+    width:260px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+    border: 1px;
+    overflow: hidden;
+    border-radius: 5000px;
+   
+}
+
+.imgp{
+    align-content: center;
+}
+
+.imgh{
+    height:400px;
+    width:1350px;
+}
+
+h1{
+    color:white;
+    font-size:48px;
+    margin: 0 auto 0 auto;
+    font-family: Tahoma;
+}
+
+h2{
+    color:turquoise
+}
+
+div.perfil{
+    position:relative;
+    bottom: 270px;
+    text-align: center;
+    align-content:center;
+      
+}
+
+.pIng{
+    font-size:18px;
+}
+
+div.opcion{
+    position:absolute;
+    top: 400px;
+}
+
